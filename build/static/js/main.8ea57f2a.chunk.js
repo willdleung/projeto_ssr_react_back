@@ -1,0 +1,2 @@
+(this.webpackJsonpprojeto_back=this.webpackJsonpprojeto_back||[]).push([[0],{9:function(t,e,n){"use strict";n.r(e);n(1);var o=n(3),c=n.n(o),r=n(0),s=function(t){return Object(r.jsxs)("h1",{children:["Recode Pro ",t.ano,"!"]})};var a=function(){return Object(r.jsx)(s,{ano:"2021"})};c.a.hydrate(Object(r.jsx)(a,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.8ea57f2a.chunk.js.map
